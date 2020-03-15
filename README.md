@@ -7,7 +7,7 @@
 ```
 Fork this repo
 Clone this repo
-Practice Java basics - operators, conditions, loops, class and object
+Practice Java JDBC - connections, class and object
 ```
 
 ## How To Submit
