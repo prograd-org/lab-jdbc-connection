@@ -1,9 +1,9 @@
 ![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
 
-# ProGrad Lab | ProGrad Premier League
+# ProGrad Lab | ProGrad Premier Cricket League (PPCL)
 
 
-## What should you do
+## What Should You Do
 ```
 Fork this repo
 Clone this repo
@@ -27,19 +27,19 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 2. ***Edit the code as per the instructions.***
 3. ***Go to Java Resources -> src folder.***
 4. ***You will have two packages src/controller and src/utility.***
-5. ***Your database connection code should exist inside the utlity package.***
+5. ***Your database connection code should exists inside the utlity package.***
 6. ***Once the progressions are completed follow the instructions to run the application and test your code.***
 7. ***Add appropriate jars to your project directory.***
-8. ***To add dependencies, right click on your project - select build path - configure build path - select libraries tab - select add external jars and add the downloaded jar files.***
+8. ***To add dependencies, right click on your project, select build path - configure build path - select libraries tab - select add external jars and add the downloaded jar files.***
 
 ## Required Dependencies
-Download ojdbc6.jar from the given link [https://www.oracle.com/database/technologies/jdbcdriver-ucp-downloads.html]
+If you haven't downloaded OJDBC driver (ojdbc6.jar), then download using this link [https://www.oracle.com/database/technologies/jdbcdriver-ucp-downloads.html]
 
-## Progression 1:
+## Progression 0:
 1. ***Right click on src folder and select new - file and name it as jdbc.properties.***
 2. ***You can use the jdbc properties given below in the NOTE section.***
 
-## Progression 2:
+## Progression 1:
 
 1. **Create a class called as `ConnectionManager` inside the utility package.**
 2. **Create a method public static Connection getConnection() which returns a connection object.** 
