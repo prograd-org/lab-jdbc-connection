@@ -3,10 +3,28 @@
 # ProGrad Lab | ProGrad Premier League
 
 
+## What should you do
+```
+Fork this repo
+Clone this repo
+Practice Java basics - operators, conditions, loops, class and object
+```
+
+## How To Submit
+```
+Upon completion, run the following commands:
+
+git add .
+git commit -m "ProGrad ID"
+git push origin master
+
+And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
+```
+
 ## Progression 1:
 
-1. **Create a class called as  `ConnectionManager` inside the utility package.**
-2. **Create a method called public static Connection getConnection() which returns a connection object.** 
+1. **Create a class called as `ConnectionManager` inside the utility package.**
+2. **Create a method public static Connection getConnection() which returns a connection object.** 
 3. **Get the connection properties from jdbc.properites file which is given below inside the NOTE.**
 4. **Use the public static Properties loadPropertiesFile() to load the jdbc properties from the jdbc.properties file.**
 
