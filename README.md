@@ -11,7 +11,6 @@
 4. **Use the public static Properties loadPropertiesFile() to load the jdbc properties from the jdbc.properties file.**
 
 
-
 ## Progression 2:
 
 1. **Create a class called as  `Main` with main method inside the controller package.**
