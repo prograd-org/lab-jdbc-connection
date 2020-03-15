@@ -30,7 +30,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 5. ***Your database connection code should exist inside the utlity package.***
 6. ***Once the progressions are completed follow the instructions to run the application and test your code.***
 7. ***Add appropriate jars to your project directory.***
-8. ***To add dependencies, right click on your project - select build path - configure build path - select libraries tab - select add external jars and add the downloaded jar files.
+8. ***To add dependencies, right click on your project - select build path - configure build path - select libraries tab - select add external jars and add the downloaded jar files.***
 
 ## Required Dependencies
 Download ojdbc6.jar from the given link [https://www.oracle.com/database/technologies/jdbcdriver-ucp-downloads.html]
