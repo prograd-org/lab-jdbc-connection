@@ -75,10 +75,10 @@ password=your_password
 
 ```
 
-**Sample Output**
+**Sample Output - 1**
+```Connection Established.```
 
-> List of all skills 
-> 1) All Rounder 
-> 2) Batting 
-> 3) Bowling 
-> 4) Wicket Keeping Batting 
+
+**Sample Output - 2**
+```Check your Connection.```
+
