@@ -37,4 +37,7 @@ public class ConnectionManager {
 
 	}
 
+	String name;
+	String clas;
+	String test;
 }
