@@ -36,8 +36,4 @@ public class ConnectionManager {
 		return prop;
 
 	}
-
-	String name;
-	String clas;
-	String test;
 }
